@@ -16,4 +16,8 @@ function matchName (list, name) {
   return list.filter(function (driver) {
     return driver.name.toLowerCase() === name.toLowerCase();
   });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0e931126f7e299a9ee591f8db71b76e903b84f4d
